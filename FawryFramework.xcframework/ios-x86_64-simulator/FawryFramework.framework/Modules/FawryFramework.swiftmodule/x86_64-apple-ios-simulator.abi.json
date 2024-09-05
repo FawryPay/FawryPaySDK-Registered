@@ -11610,6 +11610,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -12859,6 +12866,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -14234,6 +14248,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -14871,6 +14892,13 @@
             ],
             "usr": "s:7RxSwift18ReactiveCompatibleP",
             "mangledName": "$s7RxSwift18ReactiveCompatibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           },
           {
             "kind": "Conformance",
@@ -19458,6 +19486,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -21015,6 +21050,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -23676,6 +23718,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
@@ -24459,6 +24508,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -25198,6 +25254,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -37005,6 +37068,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
@@ -41162,6 +41232,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -43081,6 +43158,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -47778,6 +47862,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
@@ -49942,6 +50033,3222 @@
             "funcSelfKind": "NonMutating"
           },
           {
+            "kind": "Function",
+            "name": "fetchSavedCards",
+            "printedName": "fetchSavedCards(baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC15fetchSavedCards7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AmA014LaunchMerchantM0CAA0axM0CSgSbAMyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC15fetchSavedCards7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AmA014LaunchMerchantM0CAA0axM0CSgSbAMyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "deleteCard",
+            "printedName": "deleteCard(baseURL:appLanguage:merchant:launchModel:card:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SavedCard",
+                "printedName": "FawryFramework.SavedCard",
+                "usr": "s:14FawryFramework9SavedCardV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC10deleteCard7baseURL11appLanguage8merchant11launchModel4card6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AnA014LaunchMerchantL0CAA0axL0CSgAA05SavedE0VSbANyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC10deleteCard7baseURL11appLanguage8merchant11launchModel4card6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AnA014LaunchMerchantL0CAA0axL0CSgAA05SavedE0VSbANyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "saveNewCard",
+            "printedName": "saveNewCard(baseURL:appLanguage:merchant:launchModel:card:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CardDetailsModel",
+                "printedName": "FawryFramework.CardDetailsModel",
+                "usr": "s:14FawryFramework16CardDetailsModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC11saveNewCard7baseURL11appLanguage8merchant11launchModel4card6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AnA014LaunchMerchantM0CAA0ayM0CSgAA0f7DetailsM0CSbANyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC11saveNewCard7baseURL11appLanguage8merchant11launchModel4card6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AnA014LaunchMerchantM0CAA0ayM0CSgAA0f7DetailsM0CSbANyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getUserAddresses",
+            "printedName": "getUserAddresses(baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC16getUserAddresses7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AmA014LaunchMerchantM0CAA0axM0CSgSbAMyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC16getUserAddresses7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AmA014LaunchMerchantM0CAA0axM0CSgSbAMyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "deleteAddress",
+            "printedName": "deleteAddress(baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:addressID:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC13deleteAddress7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum9addressID10errorBlock16onSuccessHandlerySSSg_AnA014LaunchMerchantL0CAA0ayL0CSgSbANSiSgyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC13deleteAddress7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum9addressID10errorBlock16onSuccessHandlerySSSg_AnA014LaunchMerchantL0CAA0ayL0CSgSbANSiSgyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "editAddress",
+            "printedName": "editAddress(latitude:longitude:governorate:geolocation:city:area:street:building:floor:apartment:landmark:userName:mobilePhoneNumber:isDefaultAddress:addressType:addressTypeId:addressId:address:addressMode:baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Double?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Double?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.Geolocation?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Geolocation",
+                    "printedName": "FawryFramework.Geolocation",
+                    "usr": "s:14FawryFramework11GeolocationV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.AddressMode?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AddressMode",
+                    "printedName": "FawryFramework.AddressMode",
+                    "usr": "s:14FawryFramework11AddressModeO"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC11editAddress8latitude9longitude11governorate11geolocation4city4area6street8building5floor9apartment8landmark8userName17mobilePhoneNumber09isDefaultE011addressType0xY2Id0xZ00X00X4Mode7baseURL11appLanguage8merchant11launchModel0V4Mock11orderRefNum10errorBlock16onSuccessHandlerySdSg_A4_ypSgAA11GeolocationVSgA5_A5_A5_SSSgA9_A9_A9_A9_A9_SbA9_A9_SiSgA9_AA0E4ModeOSgA9_A9_AA19LaunchMerchantModelCAA0A11LaunchModelCSgSbA9_yAA0A5ErrorCSgcyA5_ctF",
+            "mangledName": "$s14FawryFramework0B6HelperC11editAddress8latitude9longitude11governorate11geolocation4city4area6street8building5floor9apartment8landmark8userName17mobilePhoneNumber09isDefaultE011addressType0xY2Id0xZ00X00X4Mode7baseURL11appLanguage8merchant11launchModel0V4Mock11orderRefNum10errorBlock16onSuccessHandlerySdSg_A4_ypSgAA11GeolocationVSgA5_A5_A5_SSSgA9_A9_A9_A9_A9_SbA9_A9_SiSgA9_AA0E4ModeOSgA9_A9_AA19LaunchMerchantModelCAA0A11LaunchModelCSgSbA9_yAA0A5ErrorCSgcyA5_ctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addAddress",
+            "printedName": "addAddress(latitude:longitude:governorate:geolocation:city:area:street:building:floor:apartment:landmark:userName:mobilePhoneNumber:isDefaultAddress:addressType:addressTypeId:addressId:address:addressMode:baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Double?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Double?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.Geolocation?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Geolocation",
+                    "printedName": "FawryFramework.Geolocation",
+                    "usr": "s:14FawryFramework11GeolocationV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.AddressMode?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AddressMode",
+                    "printedName": "FawryFramework.AddressMode",
+                    "usr": "s:14FawryFramework11AddressModeO"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC10addAddress8latitude9longitude11governorate11geolocation4city4area6street8building5floor9apartment8landmark8userName17mobilePhoneNumber09isDefaultE011addressType0xY2Id0xZ00X00X4Mode7baseURL11appLanguage8merchant11launchModel0V4Mock11orderRefNum10errorBlock16onSuccessHandlerySdSg_A4_ypSgAA11GeolocationVSgA5_A5_A5_SSSgA9_A9_A9_A9_A9_SbA9_A9_SiSgA9_AA0E4ModeOSgA9_A9_AA19LaunchMerchantModelCAA0A11LaunchModelCSgSbA9_yAA0A5ErrorCSgcyA5_ctF",
+            "mangledName": "$s14FawryFramework0B6HelperC10addAddress8latitude9longitude11governorate11geolocation4city4area6street8building5floor9apartment8landmark8userName17mobilePhoneNumber09isDefaultE011addressType0xY2Id0xZ00X00X4Mode7baseURL11appLanguage8merchant11launchModel0V4Mock11orderRefNum10errorBlock16onSuccessHandlerySdSg_A4_ypSgAA11GeolocationVSgA5_A5_A5_SSSgA9_A9_A9_A9_A9_SbA9_A9_SiSgA9_AA0E4ModeOSgA9_A9_AA19LaunchMerchantModelCAA0A11LaunchModelCSgSbA9_yAA0A5ErrorCSgcyA5_ctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addAddressTwo",
+            "printedName": "addAddressTwo(latitude:longitude:governorate:governorateId:city:cityId:area:areaId:street:streetId:building:floor:apartment:landmark:userName:mobilePhoneNumber:isDefaultAddress:addressType:addressTypeId:addressId:address:addressMode:baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Double?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Double?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.AddressMode?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AddressMode",
+                    "printedName": "FawryFramework.AddressMode",
+                    "usr": "s:14FawryFramework11AddressModeO"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC13addAddressTwo8latitude9longitude11governorate0I2Id4city0kJ04area0lJ06street0mJ08building5floor9apartment8landmark8userName17mobilePhoneNumber09isDefaultE011addressType0yzJ00yJ00Y00Y4Mode7baseURL11appLanguage8merchant11launchModel0W4Mock11orderRefNum10errorBlock16onSuccessHandlerySdSg_A7_SSSgA8_A8_A8_A8_A8_A8_A8_A8_A8_A8_A8_A8_A8_SbA8_A8_SiSgA8_AA0E4ModeOSgA8_A8_AA19LaunchMerchantModelCAA0A11LaunchModelCSgSbA8_yAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC13addAddressTwo8latitude9longitude11governorate0I2Id4city0kJ04area0lJ06street0mJ08building5floor9apartment8landmark8userName17mobilePhoneNumber09isDefaultE011addressType0yzJ00yJ00Y00Y4Mode7baseURL11appLanguage8merchant11launchModel0W4Mock11orderRefNum10errorBlock16onSuccessHandlerySdSg_A7_SSSgA8_A8_A8_A8_A8_A8_A8_A8_A8_A8_A8_A8_A8_SbA8_A8_SiSgA8_AA0E4ModeOSgA8_A8_AA19LaunchMerchantModelCAA0A11LaunchModelCSgSbA8_yAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "fetchCustomerPointsHistory",
+            "printedName": "fetchCustomerPointsHistory(baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC26fetchCustomerPointsHistory7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AmA014LaunchMerchantN0CAA0ayN0CSgSbAMyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC26fetchCustomerPointsHistory7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AmA014LaunchMerchantN0CAA0ayN0CSgSbAMyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "fetchCustomerVouchersHistory",
+            "printedName": "fetchCustomerVouchersHistory(page:baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC28fetchCustomerVouchersHistory4page7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySi_SSSgAnA014LaunchMerchantO0CAA0azO0CSgSbANyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC28fetchCustomerVouchersHistory4page7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySi_SSSgAnA014LaunchMerchantO0CAA0azO0CSgSbANyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "fetchProgramVouchers",
+            "printedName": "fetchProgramVouchers(baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC20fetchProgramVouchers7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AmA014LaunchMerchantM0CAA0axM0CSgSbAMyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC20fetchProgramVouchers7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AmA014LaunchMerchantM0CAA0axM0CSgSbAMyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "fetchCustomerInfo",
+            "printedName": "fetchCustomerInfo(baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC17fetchCustomerInfo7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AmA014LaunchMerchantM0CAA0axM0CSgSbAMyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC17fetchCustomerInfo7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AmA014LaunchMerchantM0CAA0axM0CSgSbAMyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "createVoucher",
+            "printedName": "createVoucher(voucher:wallet:baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProgramVouchersModel",
+                "printedName": "FawryFramework.ProgramVouchersModel",
+                "usr": "s:14FawryFramework20ProgramVouchersModelV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WalletAccounts",
+                "printedName": "FawryFramework.WalletAccounts",
+                "usr": "s:14FawryFramework14WalletAccountsC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC13createVoucher7voucher6wallet7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandleryAA015ProgramVouchersN0V_AA14WalletAccountsCSSSgAsA014LaunchMerchantN0CAA0a6LaunchN0CSgSbASyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC13createVoucher7voucher6wallet7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandleryAA015ProgramVouchersN0V_AA14WalletAccountsCSSSgAsA014LaunchMerchantN0CAA0a6LaunchN0CSgSbASyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "findCouriersPerAddress",
+            "printedName": "findCouriersPerAddress(address:baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.AddressList?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AddressList",
+                    "printedName": "FawryFramework.AddressList",
+                    "usr": "s:14FawryFramework11AddressListC"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC22findCouriersPerAddress7address7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandleryAA0G4ListCSg_SSSgAqA014LaunchMerchantO0CAA0a6LaunchO0CSgSbAQyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC22findCouriersPerAddress7address7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandleryAA0G4ListCSg_SSSgAqA014LaunchMerchantO0CAA0a6LaunchO0CSgSbAQyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "verifyVoucher",
+            "printedName": "verifyVoucher(code:partnerId:amount:baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Double?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC13verifyVoucher4code9partnerId6amount7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySS_SSSdSgSSSgAqA014LaunchMerchantP0CAA0a6LaunchP0CSgSbAQyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC13verifyVoucher4code9partnerId6amount7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySS_SSSdSgSSSgAqA014LaunchMerchantP0CAA0a6LaunchP0CSgSbAQyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retriveShippingGovernorates",
+            "printedName": "retriveShippingGovernorates(baseURL:appLanguage:merchant:launchModel:isMock:orderRefNum:errorBlock:onSuccessHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LaunchMerchantModel",
+                "printedName": "FawryFramework.LaunchMerchantModel",
+                "usr": "s:14FawryFramework19LaunchMerchantModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FawryFramework.FawryLaunchModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FawryLaunchModel",
+                    "printedName": "FawryFramework.FawryLaunchModel",
+                    "usr": "s:14FawryFramework0A11LaunchModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FawryFramework.FawryError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FawryFramework.FawryError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FawryError",
+                        "printedName": "FawryFramework.FawryError",
+                        "usr": "c:@M@FawryFramework@objc(cs)FawryError"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FawryFramework0B6HelperC27retriveShippingGovernorates7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AmA014LaunchMerchantM0CAA0axM0CSgSbAMyAA0A5ErrorCSgcyypSgctF",
+            "mangledName": "$s14FawryFramework0B6HelperC27retriveShippingGovernorates7baseURL11appLanguage8merchant11launchModel6isMock11orderRefNum10errorBlock16onSuccessHandlerySSSg_AmA014LaunchMerchantM0CAA0axM0CSgSbAMyAA0A5ErrorCSgcyypSgctF",
+            "moduleName": "FawryFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init()",
@@ -51537,6 +54844,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -53923,6 +57237,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
@@ -56203,6 +59524,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -58973,6 +62301,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -62918,6 +66253,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -64324,6 +67666,34 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FawryFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FawryFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FawryFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "FawryFramework"
       },
       {
         "kind": "TypeDecl",
@@ -66136,6 +69506,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
@@ -66290,6 +69667,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -67015,6 +70399,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
@@ -67054,33 +70445,19 @@
         "usr": "s:10Foundation4DataV",
         "mangledName": "$s10Foundation4DataV",
         "moduleName": "Foundation",
+        "intro_Macosx": "10.10",
+        "intro_iOS": "8.0",
+        "intro_tvOS": "9.0",
+        "intro_watchOS": "2.0",
         "declAttributes": [
-          "Frozen"
+          "Frozen",
+          "Available",
+          "Available",
+          "Available",
+          "Available"
         ],
         "isExternal": true,
         "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "ReferenceConvertible",
-            "printedName": "ReferenceConvertible",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ReferenceType",
-                "printedName": "ReferenceType",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "NSData",
-                    "printedName": "Foundation.NSData",
-                    "usr": "c:objc(cs)NSData"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:10Foundation20ReferenceConvertibleP",
-            "mangledName": "$s10Foundation20ReferenceConvertibleP"
-          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -67473,24 +70850,25 @@
           },
           {
             "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomReflectable",
-            "printedName": "CustomReflectable",
-            "usr": "s:s17CustomReflectableP",
-            "mangledName": "$ss17CustomReflectableP"
+            "name": "ReferenceConvertible",
+            "printedName": "ReferenceConvertible",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ReferenceType",
+                "printedName": "ReferenceType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSData",
+                    "printedName": "Foundation.NSData",
+                    "usr": "c:objc(cs)NSData"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation20ReferenceConvertibleP",
+            "mangledName": "$s10Foundation20ReferenceConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -67513,6 +70891,27 @@
             ],
             "usr": "s:s21_ObjectiveCBridgeableP",
             "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
           },
           {
             "kind": "Conformance",
@@ -76280,133 +79679,133 @@
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 27526,
+      "offset": 27532,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 28582,
+      "offset": 28594,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 29644,
+      "offset": 29662,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 30744,
+      "offset": 30768,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 31802,
+      "offset": 31832,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 33319,
+      "offset": 33355,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 33865,
+      "offset": 33901,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 36365,
+      "offset": 36407,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 36901,
+      "offset": 36943,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 39581,
+      "offset": 39629,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 40142,
+      "offset": 40190,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 42607,
+      "offset": 42661,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 43852,
+      "offset": 43912,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 45035,
+      "offset": 45101,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 46149,
+      "offset": 46221,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 47329,
+      "offset": 47407,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 48627,
+      "offset": 48711,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 49934,
+      "offset": 50024,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sameh\/Documents\/FawryPay_Registered\/FawryFramework\/FawryFramework\/Reusable Stuffs\/FrameworkHelper\/FrameworkHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 51242,
+      "offset": 51338,
       "length": 5,
       "value": "false"
     },
@@ -79286,6 +82685,349 @@
       "offset": 1652,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 619,
+      "length": 10,
+      "value": "\"FAQColor\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 774,
+      "length": 22,
+      "value": "\"FawryBackGroundColor\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 926,
+      "length": 12,
+      "value": "\"FawryBlack\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1085,
+      "length": 23,
+      "value": "\"FawryButtonGreenColor\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1247,
+      "length": 19,
+      "value": "\"FawryDividerColor\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1408,
+      "length": 18,
+      "value": "\"FawryDividerDark\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1552,
+      "length": 10,
+      "value": "\"FawryRed\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1703,
+      "length": 20,
+      "value": "\"FawryTextGreyColor\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1960,
+      "length": 13,
+      "value": "\"CashAccount\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2111,
+      "length": 16,
+      "value": "\"CashOnDelivery\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2251,
+      "length": 9,
+      "value": "\"Loyalty\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2390,
+      "length": 12,
+      "value": "\"PayAtStore\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2532,
+      "length": 12,
+      "value": "\"PayUsingCC\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2674,
+      "length": 12,
+      "value": "\"addVoucher\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2811,
+      "length": 10,
+      "value": "\"add_item\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2964,
+      "length": 19,
+      "value": "\"available_voucher\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3112,
+      "length": 12,
+      "value": "\"back_black\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3253,
+      "length": 12,
+      "value": "\"back_white\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3385,
+      "length": 7,
+      "value": "\"badge\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3523,
+      "length": 13,
+      "value": "\"beanos_card\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3668,
+      "length": 13,
+      "value": "\"cashBalance\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3809,
+      "length": 11,
+      "value": "\"checkmark\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3940,
+      "length": 7,
+      "value": "\"coins\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4079,
+      "length": 13,
+      "value": "\"coinsvector\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4233,
+      "length": 18,
+      "value": "\"consumed_voucher\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4373,
+      "length": 8,
+      "value": "\"coupon\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4512,
+      "length": 13,
+      "value": "\"cross_black\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4656,
+      "length": 13,
+      "value": "\"cross_white\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4806,
+      "length": 16,
+      "value": "\"delete_address\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4953,
+      "length": 13,
+      "value": "\"delete_item\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5101,
+      "length": 15,
+      "value": "\"discount-code\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5262,
+      "length": 20,
+      "value": "\"discountCodeVector\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5411,
+      "length": 12,
+      "value": "\"down_arrow\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5556,
+      "length": 14,
+      "value": "\"edit_address\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5709,
+      "length": 17,
+      "value": "\"expired_voucher\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5863,
+      "length": 16,
+      "value": "\"location_black\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6001,
+      "length": 8,
+      "value": "\"marker\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6150,
+      "length": 18,
+      "value": "\"mastercard_small\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6296,
+      "length": 11,
+      "value": "\"nextArrow\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6429,
+      "length": 8,
+      "value": "\"pencil\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6566,
+      "length": 12,
+      "value": "\"plus_green\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6712,
+      "length": 14,
+      "value": "\"redeemPoints\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6857,
+      "length": 13,
+      "value": "\"search_grey\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7005,
+      "length": 15,
+      "value": "\"selected_card\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7149,
+      "length": 12,
+      "value": "\"tick_white\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7294,
+      "length": 14,
+      "value": "\"unknown_card\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7447,
+      "length": 17,
+      "value": "\"unselected_card\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7589,
+      "length": 10,
+      "value": "\"up_arrow\""
+    },
+    {
+      "filePath": "\/Users\/sameh\/Library\/Developer\/Xcode\/DerivedData\/Fawry-erdaylaybfspkacflduydhgpuflz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FawryFramework\/IntermediateBuildFilesPath\/FawryFramework.build\/Release-iphonesimulator\/FawryFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7728,
+      "length": 12,
+      "value": "\"visa_small\""
     }
   ]
 }
