@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		3YU5squA5HfZDOggFyFFhi3TqLc=
+		jA8fWwI6xiS+GRkR86S5H6JdpDs=
 		</data>
 		<key>AvailablePaymentMethodsTableViewCell.nib/objects-13.0+.nib</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Base.lproj/Address.storyboardc/Kn9-zH-pOj-view-g7s-9V-OhF.nib/objects-13.0+.nib</key>
 		<data>
-		EPV1/mvhYeSRifKEGzmMWaXXK50=
+		YRWD6oYRaYsEV5CXmACCOxALbZk=
 		</data>
 		<key>Base.lproj/Address.storyboardc/Kn9-zH-pOj-view-g7s-9V-OhF.nib/runtime.nib</key>
 		<data>
-		EPV1/mvhYeSRifKEGzmMWaXXK50=
+		YRWD6oYRaYsEV5CXmACCOxALbZk=
 		</data>
 		<key>Base.lproj/Address.storyboardc/MapViewController.nib/objects-13.0+.nib</key>
 		<data>
@@ -606,11 +606,11 @@
 		</data>
 		<key>ForsaInstallmentPlansViewController.nib/objects-13.0+.nib</key>
 		<data>
-		KufPIX60V1HEbDlH2qQ6NhhzhrU=
+		9LjKwoV6h+2A+wLjYe2RJUV0uns=
 		</data>
 		<key>ForsaInstallmentPlansViewController.nib/runtime.nib</key>
 		<data>
-		7EEu8b2/kA16+5mDDADdXavocTQ=
+		qEcfDJ8jenOdIxIOlwisoOlpseA=
 		</data>
 		<key>ForsaOTPViewController.nib/objects-13.0+.nib</key>
 		<data>
@@ -626,35 +626,35 @@
 		</data>
 		<key>GetCustomerStatusViewController.nib/objects-13.0+.nib</key>
 		<data>
-		ZICL68wKwMiKrwerLmP+kIyx2UU=
+		w1capuvGFvzknir+RYGGn1OXgWc=
 		</data>
 		<key>GetCustomerStatusViewController.nib/objects-14.0+.nib</key>
 		<data>
-		nyPyxIr9vNeJxUVruAcQCpRGTGs=
+		Sx+PGqZqPFJQPiNpJJ17mIuWMVE=
 		</data>
 		<key>GetCustomerStatusViewController.nib/runtime.nib</key>
 		<data>
-		5MIw14iUr7YQGuBBWvooRN35Vu0=
+		t/Jdljt7MRa5PEwOfuccxC8OM2o=
 		</data>
 		<key>GetForsaCustomerStatusViewController.nib/objects-13.0+.nib</key>
 		<data>
-		WDIim4uNKAtQxvSjf1T08eM+HPk=
+		J9YqHifrp282GvvfGsLbij/zSe0=
 		</data>
 		<key>GetForsaCustomerStatusViewController.nib/objects-14.0+.nib</key>
 		<data>
-		2HNS+5Vr+/7j13wkaSvb/C2AGbQ=
+		R+5AFDwXz68cN9wVzGvjAtrEhxI=
 		</data>
 		<key>GetForsaCustomerStatusViewController.nib/runtime.nib</key>
 		<data>
-		8g2HhQ/hd1XKrZS1z4MFSu3/kW0=
+		NdJCowlbFJ/et68WmpOO76S1yNw=
 		</data>
 		<key>GetSouhoolaCustomerStatusViewController.nib/objects-13.0+.nib</key>
 		<data>
-		rpIr7WC+4KDuQGHsj5bfjIDO8PM=
+		9+B8dpZ98XDSVNHg6BOe9DG/GPc=
 		</data>
 		<key>GetSouhoolaCustomerStatusViewController.nib/runtime.nib</key>
 		<data>
-		sNL0FHyUYPRTtXN1Y0tkKxpQc/M=
+		W/fl+Jh+Kho8imsHATW7QHUDr5M=
 		</data>
 		<key>GoogleMaps.bundle/Assets.car</key>
 		<data>
@@ -1940,7 +1940,7 @@
 		</dict>
 		<key>Headers/FawryFramework-Swift.h</key>
 		<data>
-		HCE+DlQicBGQ+wT2/F/NPCX5wnk=
+		snz1A+IPvoZ2jfeha5Tjgy0Ap+U=
 		</data>
 		<key>Headers/FawryFramework.h</key>
 		<data>
@@ -1948,7 +1948,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IZHrDO8jYTRgjgXXRCZr/R8B6CI=
+		ALDoW7XitMBbUJ4NSuqRJIvi5To=
 		</data>
 		<key>InstallmentsCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
@@ -1976,23 +1976,23 @@
 		</data>
 		<key>Modules/FawryFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		xlz4PFojEUJ3oD9+opBdDIr62Q8=
+		K5V4wlj9KfjsT6vGQFden5tp9vE=
 		</data>
 		<key>Modules/FawryFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		FeFb8lS0OxSa12dJPdhnZCgvT+g=
+		leLHjVeWED0Z26Z3SZEjR9DfHKA=
 		</data>
 		<key>Modules/FawryFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		1u59N5/MjVSRZsNH3KcIlo2KbDA=
+		HPHH70gjlrmQXDsFUE/xXd3yM18=
 		</data>
 		<key>Modules/FawryFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		FeFb8lS0OxSa12dJPdhnZCgvT+g=
+		leLHjVeWED0Z26Z3SZEjR9DfHKA=
 		</data>
 		<key>Modules/FawryFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		z0wlq0+gLVn/Af1kGbPoZiY6sEU=
+		N2d5UznRvZ4mND89P0XNLqYiX74=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2112,7 +2112,7 @@
 		</data>
 		<key>SearchResultTableCell.nib</key>
 		<data>
-		G4wFtEnnJcba6s/8x1cx1alYRPA=
+		TaIWoGL+gYzfEFV6YOhvNwFqkQk=
 		</data>
 		<key>SendOTPViewController.nib/objects-13.0+.nib</key>
 		<data>
@@ -2132,11 +2132,11 @@
 		</data>
 		<key>SouhoolaInstallmentPlansViewController.nib/objects-13.0+.nib</key>
 		<data>
-		25exZireVtWc/wIco5dLOY8wikE=
+		w4L0q4JX6E81CLG1Wxy+mw6puNs=
 		</data>
 		<key>SouhoolaInstallmentPlansViewController.nib/runtime.nib</key>
 		<data>
-		/SqDpW+EpLtjSqOQfkhAOa9ugIY=
+		1HVEP3O2T3hLVtEUqzj/lR2kLlg=
 		</data>
 		<key>Steelworks Vintage Demo.ttf</key>
 		<data>
@@ -2180,15 +2180,15 @@
 		</data>
 		<key>ValuInstallmentPlansViewController.nib/objects-13.0+.nib</key>
 		<data>
-		Q+LiQrc3/uFapR9KdoyHD9nTGmI=
+		oKGrHkoYeB/Zk2p3DldjzOH5jqQ=
 		</data>
 		<key>ValuInstallmentPlansViewController.nib/objects-14.0+.nib</key>
 		<data>
-		I/Wz2PPrzhnbnSecq0Gkj4qxuv0=
+		+ZxGiyGvQt/zdN88HZxf2fmCGi0=
 		</data>
 		<key>ValuInstallmentPlansViewController.nib/runtime.nib</key>
 		<data>
-		+xA1rCGvbo662cA7/ZqoemU2Uqc=
+		T0odr1yxgFq9hJcfLiNC0JGrGEM=
 		</data>
 		<key>ValuOTPViewController.nib/objects-13.0+.nib</key>
 		<data>
@@ -2831,7 +2831,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sIxNwwZ8QM88qDVmX6VoWwuser4+A/TqMtq5cqtORSg=
+			UtYNbrBNOj1sVoN/t5Nd30gWsFYJhYoXDQt79++cXrw=
 			</data>
 		</dict>
 		<key>AvailablePaymentMethodsTableViewCell.nib/objects-13.0+.nib</key>
@@ -2957,14 +2957,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FZb2RCkvtJxNVq2crlaaxc8FUMrRE1peTG1uIxLriDM=
+			psKWFlLnW97IG6xDNJ9103r7Q6YYjGoMFU2/C8ZoHVA=
 			</data>
 		</dict>
 		<key>Base.lproj/Address.storyboardc/Kn9-zH-pOj-view-g7s-9V-OhF.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FZb2RCkvtJxNVq2crlaaxc8FUMrRE1peTG1uIxLriDM=
+			psKWFlLnW97IG6xDNJ9103r7Q6YYjGoMFU2/C8ZoHVA=
 			</data>
 		</dict>
 		<key>Base.lproj/Address.storyboardc/MapViewController.nib/objects-13.0+.nib</key>
@@ -3853,14 +3853,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			u1MAJA/uKsDI+pH8VaduOXzUYQ6Mtl/50N2o7vMoHac=
+			Zft6RbRlAZ89G6IJB9yn4UBivfLkf9cKsr3YwzXfcj0=
 			</data>
 		</dict>
 		<key>ForsaInstallmentPlansViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WaMopCWDOB8dQUqnGlSZv361nYiNjb4iky8D8jD6oyw=
+			UPPzwfTMRhhQ1inJQqR8wuqoNCjhVvaJUaXv58GUOx4=
 			</data>
 		</dict>
 		<key>ForsaOTPViewController.nib/objects-13.0+.nib</key>
@@ -3888,56 +3888,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QL1RYWdZG+KaT9jFkjNNycJ0HkisRr3L9M478DupDao=
+			w0AOxrW2Z0ie2WcB8BZtKYaaBJRHSVxSZqT1TjIVNmQ=
 			</data>
 		</dict>
 		<key>GetCustomerStatusViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uRN9Rsa5EsVvfyfB4kmZ7GQ+CZWhduIVaqNT4Th4C8o=
+			rb9/V1s/Tb5LzxKokWsCcl4scCytKV4VQyyyFq4pe7I=
 			</data>
 		</dict>
 		<key>GetCustomerStatusViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gnuTs/lxs+SxUzJSCO6I8uZ79dbWUMcBJuLW3AEUYqM=
+			n14h1MeTefb+cNXRc/LQQ64aYs7oReo25Y1e69sOJf4=
 			</data>
 		</dict>
 		<key>GetForsaCustomerStatusViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mFsIbiWnxySFBEtD4pLbzx6l4eYhqJWJcpM3URYGYvM=
+			o4rjvcEmIdnXS7OWQdvedaXlRsE0S39a3LqcTrqYeLc=
 			</data>
 		</dict>
 		<key>GetForsaCustomerStatusViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aAwF540wuWD1LRSXtW1VNSeVaSZ10lZ3nc/VeozvB9o=
+			LvwI/3aefPKR4Fkkt9RmVNeXysImGNpmzZKLgcmTRvs=
 			</data>
 		</dict>
 		<key>GetForsaCustomerStatusViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VQ7GWF9vw8WMmqCyM6iHEnYtLOyoOGlXJ0TFyKenPdU=
+			FIGFVQRxfUawx2C+EDvo2bVZGoeFfjr9dMybGWZD/tI=
 			</data>
 		</dict>
 		<key>GetSouhoolaCustomerStatusViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UVITwozIjvKQFMUB2NVuL42UGdkWSBzABwJqSFmh7/k=
+			z8hkqE9ExvWm0VkFLH32JvT8+7VFPlrMQla/vBjX7NM=
 			</data>
 		</dict>
 		<key>GetSouhoolaCustomerStatusViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O6Ta0aMwJNMpSTs+RHUm1so6s8vkHYkkNXlZm9ML9Ik=
+			Q+H0hLIQpYQkbTL9Z4bUD2PXYWAedOaLIaDJxCFVw2s=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/Assets.car</key>
@@ -5526,7 +5526,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UIj2dDXb0f80RWWCx24l4+9OOTilAxxPcrPhJxqvCGw=
+			a4kXjNfcIJuHWYIhb37uvrl4yUdUBK9SBQdnfzb81fk=
 			</data>
 		</dict>
 		<key>Headers/FawryFramework.h</key>
@@ -5582,35 +5582,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5J/i+Xv5OOQRHix1NdQUkt/fm+6HnogjYdoKwMokICg=
+			NTDlZE3njYgX50t7NC1bTkzQLQRnqUWtRWWeaqlhqaA=
 			</data>
 		</dict>
 		<key>Modules/FawryFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f1jErru1PT5qagFTwGU/yk0SuC78O0EMXy12Ht/qSRk=
+			7S7xJa3E5Q5nYJsB7QPI0sOF3tzbOha5Mnjtq9jJWaA=
 			</data>
 		</dict>
 		<key>Modules/FawryFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			naTSgrolkoXOsEknNA1FFfXxfgk8a08oe2BEekFKTSc=
+			Zb572LCCNCcnib0iceejuSDef/trR8FkvCQO6mI28b8=
 			</data>
 		</dict>
 		<key>Modules/FawryFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f1jErru1PT5qagFTwGU/yk0SuC78O0EMXy12Ht/qSRk=
+			7S7xJa3E5Q5nYJsB7QPI0sOF3tzbOha5Mnjtq9jJWaA=
 			</data>
 		</dict>
 		<key>Modules/FawryFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dJEHljNk2IolZt8+VPtgFS+cGBd2MpFJTC3MrmuVZyo=
+			G5txHG3r6dA0txq+x4++TxXsq5S1Nkc6qVtIsKTveQ8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -5820,7 +5820,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aODkE3QtKYj2aoOnS5XuVb5jxOywIdbQEPQRUj5NByQ=
+			9WVMpdADkl1ENDqhKGbTUCHrS58tpH/2YAMIREhqf1k=
 			</data>
 		</dict>
 		<key>SendOTPViewController.nib/objects-13.0+.nib</key>
@@ -5855,14 +5855,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1n/z4Q5EePJPsNcWl3BcASdvlZGhwZtZcLcdOsYExP4=
+			nZ38b+GLkXtr0qICwgPovmdKGKo52wtPVwbbToZ3Usk=
 			</data>
 		</dict>
 		<key>SouhoolaInstallmentPlansViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XrO4hG5RZmZ+EmvavX082ue7Wxb+imPGip2/YBDIIfE=
+			2sKbupNypUtQm/gfqfleoA4OhxHuJXxXn4Z48J1lk8I=
 			</data>
 		</dict>
 		<key>Steelworks Vintage Demo.ttf</key>
@@ -5939,21 +5939,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9D7EB06Zg1D3l8HCmXSslPaIRtUOtogW89w1NaxXudk=
+			gcJlDIVYlZy4ITaTH1cF8KxMI1+RJ+VS9aJBuHs/Cr0=
 			</data>
 		</dict>
 		<key>ValuInstallmentPlansViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zDvjyOEAhR+5AqTx+4ATMhFBgcKIWUp/IPyCpgaF4nk=
+			RZoh5EmkBJeUyPkiT9cjUe+FSvQXG2ciY9VoluoXN/E=
 			</data>
 		</dict>
 		<key>ValuInstallmentPlansViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q7r7iXD90A+HaIIwp2byVuPC/NqQoJxYSkviEoS23GQ=
+			hZ0rXnj3B8rTATHeUa1hC6RWdgXcC2nI2mq+DqJjXhU=
 			</data>
 		</dict>
 		<key>ValuOTPViewController.nib/objects-13.0+.nib</key>
